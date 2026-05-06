@@ -1,16 +1,12 @@
 # IronForge App 💪
 
-Official fitness app created by **Moonlight**
+🚀 Official fitness app by Moonlight
 
-🌐 Live App:
+🌐 Live:
 https://ironforge-app.netlify.app/
 
-👨‍💻 Developer:
+🔒 Ownership:
+This is the official source and identity of the IronForge application.
+
+👨‍💻 Created by:
 Moonlight
-
-📌 About:
-IronForge helps users with workouts, diet plans, and motivation.
-
-🚀 Status:
-Version 1.0 | Active Development
-
