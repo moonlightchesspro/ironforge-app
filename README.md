@@ -1,12 +1,8 @@
-# IronForge App 💪
+# Lunexa Fitness 🧠💪
 
-🚀 Official fitness app by Moonlight
+Official fitness app by Moonlight
 
-🌐 Live:
-https://ironforge-app.netlify.app/
+🌐 Live App:
+https://your-netlify-link.netlify.app/
 
-🔒 Ownership:
-This is the official source and identity of the IronForge application.
-
-👨‍💻 Created by:
-Moonlight
+🚀 Train Smarter. Become Stronger.
